@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky88844&label=Profile%20views&color=0e75b6&style=flat" alt="vicky88844" /> </p>
 
-- 🌱 I’m currently learning **MEARN,Spring,AWS**
+- 🌱 I’m currently learning **MERN,Spring,AWS**
 
 - 👨‍💻 All of my projects are available at [https://vicky88844.github.io/Portfolio/](https://vicky88844.github.io/Portfolio/)
 
